@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Gokulnath, an aspiring Data Analyst skilled in Excel, SQL, Power BI, Power Query, Python (Pandas, NumPy), and VBA. I have experience building interactive dashboards, performing data cleaning and transformation, and converting raw datasets into actionable insights. I’m a quick learner, detail-focused, and now seeking an opportunity to apply my skills in a real-world environment.<br><br>📌 Skills: Advanced Excel | SQL | Power BI | Power Query | Python (Pandas, NumPy) | VBA | Data Visualization | Data Cleaning | Dashboard Development
+Hi, I’m Gokulnath, an aspiring Data Analyst skilled in Excel, SQL, Power BI, Power Query, Python (Pandas, NumPy), and VBA. I have experience building interactive dashboards, performing data cleaning and transformation, and converting raw datasets into actionable insights. I’m a quick learner, detail-focused, and now seeking an opportunity to apply my skills in a real-world environment.<br><br>📌 Skills: Advanced Excel | SQL | Power BI | Power Query | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn) | VBA | Data Visualization | Data Cleaning | Dashboard Development
 
 
 ## 🌐 Socials:
